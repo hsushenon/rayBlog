@@ -1,0 +1,13 @@
+---
+title: "Pokemon GO"
+slug: "pokemon-go"
+date: "2019-07-26"
+---
+
+My latest addiction is this game. I remember it became a huge rage some 3 years back when it was first launched. One of the reasons it became popular was because a lot of people were going to great lengths just to just catch some Pokemon! Like people would often trespass to some private property. Hugh number of people would travel long distances. There are several funny videos on the net to see this kind of craziness for a game.
+
+The game is simple, and anyone can start playing without knowing much. You just have to travel distances and catch digital creatures called Pokemon, with throwing a ball(Pokeball) at it. Once you exhaust the Pokeballs you have, you can get more by visiting PokeStops. These PokeStops are situated in different parts of the city. For example, a metro station might have a Pokestop. The game is location-based, played in the virtual world of an actual street map. So imagine Google map, you can see the roads and if you walk, you can see your progress in the virtual map. Just add Pokemons, PokeStops to it, and that is the game. You walk to collect Pokeball, you walk, you find Pokemon then try to catch it. Simple and a lot of fun. Of Course, there is more complexity to the game, once you are more familiar with it, you will learn more about making friends, sharing gifts, fighting battles with other Pokemon, etc.
+
+I am no good with video games, it's something to do with patience and/or my lack of eye finger coordination. Last time I played a virtual game at length was Age of Empires which was more than a decade ago. This game is perfect for me, I play at a leisurely pace. No super skill is required, just willingness to travel which I do a lot anyway. It still does not fully explain why I am becoming addicted to it. Maybe the simple task-reward nature of the game suits my taste. Maybe the pseudo-social nature of it, you do make friends in the game and help each other but everyone uses alias and real identity is never known. It could also be the adventure aspect of it where you keep looking and suddenly find a new Pokemon. Bottomline for a person who does not play any virtual game I play this game a lot. Which is starting to worry me :)
+
+There is a downside to this game, since it is location-based, it needs you to always provide your location. If you are a privacy focus then this might be a no-no for you. For me the fun I have with it, I am OK with that trade. (hoping in future I don't find news that it has been used inappropriately :) ). I like it so much that I recently spent 29 Rs to buy 100 PokeCoins!!

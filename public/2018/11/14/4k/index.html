@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html  lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4K Monitor (enable DisplayPort 1.2, disable DDC/CI) | A Lengthy Reboot</title><link rel="canonical" href="https://quizzical-jackson-66c2f8.netlify.app/2018/11/14/4k/">	
+    <meta name="description" content="Richard Hsu&#39;s Personal Website" >
+    <meta name="author" content="Richard Hsu" >
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta property="og:title" content="4K Monitor (enable DisplayPort 1.2, disable DDC/CI) | A Lengthy Reboot">
+    <meta property="og:url" content="https://quizzical-jackson-66c2f8.netlify.app/">
+    <meta property="og:description" content="Richard Hsu&#39;s Personal Website">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css">
+    </head>
+<body>
+    <header style="margin-bottom: 0">
+        <h1 style="margin: 0">A Lengthy Reboot</h1>
+        <p>By Richard Hsu</p>
+        <nav>
+            <a href="/">Home</a> / 
+            <a href="/archive/">Archive</a> / 
+            <a href="/movies/">Movies</a> / 
+            <a href="/quotes/">Quotes</a> / 
+            <a href="/tv-series/">TV Series</a> / 
+            <a href="/about/">About Me</a>
+            </nav>
+    </header>
+<main>
+  <h2> 4K Monitor (enable DisplayPort 1.2, disable DDC/CI) </h2>
+    <div style="font-size: smaller; margin-bottom: 15px;">
+      November 2018 · 3 minute read
+    </div>
+  <article>
+<p>Getting a 4K monitor (Dell UP2414Q) working with Windows 10 took a lot more than I expected. My computer motherboard supports 4K resolution @ 30 Hz via HDMI but most people online say 4K @ 30 Hz will not be smooth. Having used monitors at 60 Hz refresh rate for as long as I can remember, I didn&rsquo;t want to take a chance and got the graphics card (AMD RX 460) that supports 4K @ 60 Hz via DisplayPort.</p>
+<p>When I powered up the 4K monitor, I saw the sharp, colour accurate, bright, and &ldquo;retina&rdquo; 4K display that I was expecting but it was running at 30 Hz. It was usable, and I didn&rsquo;t notice any lag. Still, I wanted to get the refresh rate to 60 Hz for <em>best</em> results. There was just no way to pick 4K @ 60 Hz.</p>
+<p>It didn&rsquo;t take long to find the answer online. The monitor&rsquo;s <em>DisplayPort 1.2</em> was disabled (default setting). Enabling it via the monitor menu refreshed the available resolutions and refresh rates and I was able to pick 3840 x 2160 (4K) @ 60 Hz. It was noticeably smoother than 30 Hz, so the internet people were right.</p>
+<p>Then I ran into another problem: when the monitor powered back on after sleep, the screen would split into two with the left half at a lower resolution and stretched out (the right half was fine). It was not usable at all. This problem took a while to figure out including time wasted trying Dell&rsquo;s customer support.</p>
+<p>Again, changing a monitor setting solved it. Only this time, I disabled the setting called <em><a href="https://superuser.com/questions/630555/turning-displayport-monitor-off-disables-monitor-completely">DDC/CI</a></em>.</p>
+<p>I still have one unsolved problem, but it is easy to work around. When Windows turns off the monitor to enter sleep mode, it stops sending the signal via the DisplayPort. I can&rsquo;t <em>wake</em> the monitor up using keyboard or mouse. When I power on the monitor, it still doesn&rsquo;t get any display signal from the computer. This thing drove me crazy for about an hour (monitor connected via HDMI doesn&rsquo;t have this problem). I finally gave up trying to make this work. Instead, I don&rsquo;t let Windows power off the monitor. I do it myself by pressing the power button.</p>
+<p>What I learnt is a DisplayPort connection between monitor and computer isn&rsquo;t a simple one-way connection like it is with VGA or DVI. DisplayPort is a two-way connection meaning the monitor sends back data about its capabilities to the computer every time it powers up and the computer then figures out what signal to send (much like a USB printer or mouse). When the computer puts the monitor to sleep and wakes it back up, something goes wrong in that connection negotiation and I end up with either a half screen unusable display or completely off monitor.</p>
+<p>Having to physically press the power button on the monitor to turn it off and on is something new for me but I don&rsquo;t mind it.</p>
+<p>Update: I still get the no-signal or split screen randomly, To fix it, I change Input Source to HDMI, wait, then switch it back to DisplayPort and it works</p>
+</article>
+  <div style="display: flex; justify-content: space-between;  margin: 50px 0 0 0">
+    <a href="https://quizzical-jackson-66c2f8.netlify.app/2018/06/20/chapturkey/">&laquo;&nbsp;Chapturkey</a>
+    <a href="https://quizzical-jackson-66c2f8.netlify.app/2019/02/16/aquaman/">Aquaman without coffee&nbsp;&raquo;</a>
+    </div>
+</main>
+</body>
+</html>

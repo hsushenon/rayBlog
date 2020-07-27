@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html {{ with .Site.LanguageCode }} lang="{{ . }}"{{ end }}>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ if eq .IsHome false -}}
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    {{- else -}}
+    <title>{{ .Site.Title }}</title>
+    {{ end -}}
+    <link rel="canonical" href="{{ .Permalink }}">	
+    <meta name="description" content="{{ .Description | default .Site.Params.Description }}" >
+    <meta name="author" content="{{ .Site.Params.Author }}" >
+    <link rel="shortcut icon" href="/favicon.ico">
+    {{ if eq .IsHome false -}}
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+    {{ else -}}
+    <meta property="og:title" content="{{ .Site.Title }}">
+    {{ end -}}
+    <meta property="og:url" content="{{ .Site.BaseURL }}">
+    <meta property="og:description" content="{{ .Description | default .Site.Params.Description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="">
+    <link rel="stylesheet" href="{{ .Site.Params.CSS }}">
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+</head>
+<body>
+    <header style="margin-bottom: 0">
+        <h1 style="margin: 0">{{ .Site.Title }}</h1>
+        <p style="margin-top:0">{{ .Site.Params.SubTitle }}</p>
+        <nav>
+            {{ $lastMenuIndex := sub (len .Site.Menus.main) 1 -}}
+            {{ range $index, $val := .Site.Menus.main -}}
+            <a href="{{ .URL }}">{{ .Name }}</a>{{ if ne $lastMenuIndex $index }} / {{ end }}
+            {{ end -}}	
+        </nav>
+    </header>

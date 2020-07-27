@@ -1,0 +1,23 @@
+{{ partial "header" . -}}
+<main>
+    {{ range first 10 (where .Site.RegularPages "Type" "in" site.Params.mainSections) -}}
+      <article>
+        <h3 style="margin-bottom: 0px;"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div style="font-size: smaller; margin-bottom: 5px">
+          {{- if not .Date.IsZero -}}
+            {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
+          {{- end -}}
+        </div>
+        <div>
+          {{ .Summary }}
+        </div>
+        {{- if .Truncated -}}
+        <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+        <div style="font-size: smaller">
+          <a href="{{ .RelPermalink }}">Read More…</a>
+        </div>
+        {{ end -}}
+      </article>
+    {{ end -}}
+</main>
+{{ partial "footer" . }}

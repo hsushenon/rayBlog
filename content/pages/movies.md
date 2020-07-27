@@ -1,0 +1,153 @@
+---
+title: "Movies"
+slug: "movies"
+---
+
+- Queen
+- Dangal
+- Jumaji
+- Lunchbox
+- Piku
+- Tanu weds Manu Returns
+- Avengers Civil War
+- Wolverine
+- Lock, Stock and Two Smoking Barrels
+- Reservoir Dogs
+- Election
+- Love + Sling
+- Parasite
+- Haider
+- Alita: Battle Angel
+- The New King of Comedy
+- Spiderman into the Spiderverse
+- Newton
+- Fast and Furious 7
+- Bahubali 2
+- Madras cafe
+- Badlapur
+- Mardani
+- English Vinglish
+- Dum Laga Ke Haisa
+- Big Sick
+- Andadhun
+- Revenant
+- Eye in the Sky
+- Black Panther
+- Tanu weds Manu
+- Sully
+- Avengers Infinity War
+- Burnt
+- Gully Boy
+- Delhi Belly
+- Shoplifters
+- Ghosts of Girlfriends Past
+- Murder Mystery
+- Jungle Books
+- Bajirao Mastani
+- War Horse
+- Qarib Qarib Single Single
+- Barielly ki Barfi
+- No Country for Old Men
+- Badla
+- Sanju
+- MI 5
+- Sicario
+- Kedarnath
+- Stree 3/19
+- My Wife is a Gangster 3
+- Election 2
+- More than Blue
+- The Great Seduction
+- A Long Way Down
+- Blackpool
+- Game Night
+- Up In Air
+- Chaapak
+- Usual Suspect
+- Hercules 2014
+- Finding Fanny
+- Family
+- Kung Fu Panda 3
+- Wonder Woman
+- Fantastic Beasts Where To Find Them
+- Mission Impossible Fallout
+- Suicide Squad
+- Ghazi Attack
+- Dil Dhadakne Do
+- Kong Skull Island
+- Incredibles 2
+- Bad Neighbours
+- November Man
+- Begin Again
+- 300 II
+- Boothnath
+- Ankho dekhi
+- Spectre
+- Batman vs Superman
+- American Sniper
+- Neerja
+- Focus
+- Wolf in Wall Street
+- Creed
+- Healing
+- Little Prince
+- Chef
+- Dunkirk
+- Hindi Medium
+- Love Actually
+- October
+- Kedarnath
+- The Negotiator
+- Money Monster
+- Moneyball
+- Two Weeks Notice
+- Oye Lucky Lucky Oye
+- Irishman
+- Joy
+- Beauty and the Beast
+- Joy
+- Karwaan
+- T3en
+- Kahani 2
+- War Dogs
+- Intern
+- Nice Guys
+- Heat
+- Badhai Ho
+- 7:39
+- Humpty sharma ki dulhania
+- The Internship
+- Queen of Kwate
+- Angry Bird
+- Baby Driver
+- Get hard
+- Inferno
+- Mastermind
+- Angrezi mein kehte hai
+- Deadpool 2
+- Pataakha
+- Photograph
+- Walk of Shame
+- Anchorman 2
+- Funny People
+- Spiderman Homecoming
+- Marrying to Mafia 2
+- Shooting Star
+- American Made
+- Two States
+- Kill Me Three Times
+- Titli
+- The Other Guys
+- Pineapple Express
+- Big Libowski
+- She’s Funny That Way
+- The Night Before
+- The Meg
+- Love on Delivery
+- John Vick
+- Super 30
+- Package
+- Always be My Maybe
+- The Mad Monk
+- 30 Minutes or Less
+- Sky is Pink

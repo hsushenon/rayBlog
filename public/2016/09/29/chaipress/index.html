@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html  lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaipress | A Lengthy Reboot</title><link rel="canonical" href="https://quizzical-jackson-66c2f8.netlify.app/2016/09/29/chaipress/">	
+    <meta name="description" content="Richard Hsu&#39;s Personal Website" >
+    <meta name="author" content="Richard Hsu" >
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta property="og:title" content="Chaipress | A Lengthy Reboot">
+    <meta property="og:url" content="https://quizzical-jackson-66c2f8.netlify.app/">
+    <meta property="og:description" content="Richard Hsu&#39;s Personal Website">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css">
+    </head>
+<body>
+    <header style="margin-bottom: 0">
+        <h1 style="margin: 0">A Lengthy Reboot</h1>
+        <p>By Richard Hsu</p>
+        <nav>
+            <a href="/">Home</a> / 
+            <a href="/archive/">Archive</a> / 
+            <a href="/movies/">Movies</a> / 
+            <a href="/quotes/">Quotes</a> / 
+            <a href="/tv-series/">TV Series</a> / 
+            <a href="/about/">About Me</a>
+            </nav>
+    </header>
+<main>
+  <h2> Chaipress </h2>
+    <div style="font-size: smaller; margin-bottom: 15px;">
+      September 2016 · 2 minute read
+    </div>
+  <article>
+<p>On a September 1st afternoon, I found an article about <a href="http://lwn.net/Articles/698452/">Linux kernel GPL enforcement</a> on <a href="https://news.ycombinator.com">Hacker News</a>. It referenced Torvald&rsquo;s <a href="https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2016-August/003580.html">reply</a> on the thread. I read it and enjoyed the argument made and the style it was made in. It also got me curious about plain text formatting (<code>*bold*</code>, <code>_underscore_</code>,  <code>[footnotes]</code>, <code>&gt; for quoting</code>). I suddenly had a desire to write like that and wondered if there was a blogging service that supported that. My website <em>was</em> on WordPress and it could work using <code>&lt;pre&gt;</code> Html tag but plain text wasn&rsquo;t <em>the</em> only way to write.</p>
+<p>So I Googled for &ldquo;plain text blog&rdquo; and found <a href="http://calepin.co/">http://calepin.co/</a> and it was nice but not exactly what I was looking for. I noticed the words &ldquo;Powered by Pelican&rdquo; in the footer. That got me looking up <a href="http://docs.getpelican.com/">Pelican</a> and I learnt it was a &ldquo;static site generator written in Python&rdquo;. Interesting<sup>1</sup>. On the same Google results page, there was a blog post about <a href="https://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html">building a static blog with Pelican</a>. The post describes blogging options and makes an argument for static site generators. It also provides step-by-step instructions to get Pelican working, but the most useful paragraph for me was</p>
+<blockquote>
+<p>The hosting resources required for public deployment are very small, 
+allowing one to use very cheap hosts such as NearlyFreeSpeech. Outside the domain registration costs, 
+the running costs come to less than $1 per month, which is a great saving!</p>
+</blockquote>
+<p><a href="https://www.nearlyfreespeech.net/">NearlyFreeSpeech</a> was the final<sup>3</sup> ingredient needed to make <a href="https://github.com/richsuca/chaipress">Chaipress</a> - my own static site generator. I don&rsquo;t know if it was the geekiness of NearlyFreeSpeech&rsquo;s website, their philosophy, or the pricing but it got me started and I had the first generated website up on September 17th. Writing the generator didn&rsquo;t take long but importing my WordPress posts did<sup>2</sup>. And I forgot about the plain text <em>only</em> thing that started all this.</p>
+<p>I called it Chaipress because Chai(tea) is simple, easy-to-make, low cost, and refreshing. The <em>press</em> is a suffix borrowed from the names of other blogging systems (WordPress, Octopress).</p>
+<small>
+Footnotes:
+<ol>
+<li>Python is my favourite and Blogging apps are an eternal curiosity of mine. I did try Pelican.</li>
+<li>Text encoding mistakes. WordPress posts were not in Html so I had to convert them using Markdown. In hindsight, I could have left it as-is and converted them during page generation instead.</li>
+<li>My previous attempts at writing my own blog engine went nowhere. When I started working as a programmer, blogging was <em>a thing</em> and writing a blog engine was also <em>a thing</em>. [It][7] [still][8] [is][9].</li>
+</ol>
+</small>
+[7]: https://news.ycombinator.com/item?id=10491873
+[8]: http://www.staticgen.com/
+[9]: https://github.com/search?utf8=%E2%9C%93&q=blog
+</article>
+  <div style="display: flex; justify-content: space-between;  margin: 50px 0 0 0">
+    <a href="https://quizzical-jackson-66c2f8.netlify.app/2016/10/10/a-lengthy-reboot/">A Lengthy Reboot&nbsp;&raquo;</a>
+    </div>
+</main>
+</body>
+</html>

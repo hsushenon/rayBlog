@@ -1,0 +1,32 @@
+---
+title: "TV Series"
+slug: "tv-series"
+---
+
+- Seinfeld
+- Game of Thrones
+- Narcos
+- Chernobyl
+- Modern Family
+- Veep
+- Spartacus
+- Sacred Games
+- Silicon Valley
+- Succession
+- Breaking Bad
+- The Good Doctor
+- Orange Is the New Black
+- Luther
+- Narcos Mexico
+- Borgia
+- Marco Polo
+- StartUp
+- Metro Park
+- Made in Heaven
+- Master of None
+- Mirzapur
+- Schitt’s Creek
+- The Ranch
+- Hip-Hop Evolution
+- Vikings
+- Inside Bill’s Brain: Decoding Bill Gates

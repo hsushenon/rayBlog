@@ -1,0 +1,59 @@
+baseURL = "https://quizzical-jackson-66c2f8.netlify.app/"
+languageCode = "en-us"
+title = "Walking Diary"
+theme = "newCSS"
+
+[author]
+  name = "Hsu Shen On" 
+  email = "hsushenon@gmail.com"
+
+[params]
+  sitename = "Walking Diary"
+  subtitle = "By Hsu Shen On"
+  disableWebFonts = false
+  mainSections = ["posts"]
+  description = "Personal Website"
+  author = "Hsu Shen On"
+  # css = "https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
+  # css = "//writ.cmcenroe.me/1.0.4/writ.min.css"
+  css = "/writ.css"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  pages = "/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Archive"
+    url  = "/archive/"
+    weight = 2
+
+[[menu.main]]
+    name = "Movies"
+    url  = "/movies/"
+    weight = 3
+
+[[menu.main]]
+    name = "Quotes"
+    url  = "/quotes/"
+    weight = 4
+
+[[menu.main]]
+    name = "TV Series"
+    url  = "/tv-series/"
+    weight = 5
+
+[[menu.main]]
+    name = "About Me"
+    url  = "/about/"
+    weight = 6
+

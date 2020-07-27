@@ -1,0 +1,20 @@
+{{ partial "header" . }}
+
+<main>
+      <article>
+        {{range (where site.RegularPages "Type" "in" site.Params.mainSections).GroupByDate "2006" -}}
+        <section>
+          <h4>{{ .Key }}</h4>
+          <ul>
+            {{ range .Pages -}}
+            <li>
+		    <a href="{{ .Permalink }}" style="color: unset;text-decoration: none">{{ .Title }}</a>&nbsp;&nbsp;<small><small> {{- .Date.Format ("Jan 2") -}}</small></small>
+            </li>
+            {{ end }}
+          </ul>
+        </section>
+        {{ end }}
+      </article>
+</main>
+
+{{ partial "footer" . }}
