@@ -15,3 +15,6 @@ I love to travel, sometimes I am inspired to take photos, here are some of the s
 If you like or dislike anything i write, do let me know about it. Mail me at hsushenon@gmail.com
 
 Not very active on twitter, though i do like my feed in it. https://twitter.com/hsushenon
+
+
+Stay safe, Stay happy 😊
