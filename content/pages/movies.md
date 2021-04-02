@@ -3,12 +3,10 @@ title: "Movies"
 slug: "movies"
 ---
 
-- Queen
 - Dangal
 - Jumaji
 - Lunchbox
 - Piku
-- Tanu weds Manu Returns
 - Avengers Civil War
 - Wolverine
 - Lock, Stock and Two Smoking Barrels
@@ -33,7 +31,6 @@ slug: "movies"
 - Revenant
 - Eye in the Sky
 - Black Panther
-- Tanu weds Manu
 - Sully
 - Avengers Infinity War
 - Burnt
