@@ -5,17 +5,25 @@ slug: "tv-series"
 
 - Seinfeld
 - Game of Thrones
+- Sopranos
 - Narcos
 - Chernobyl
+- Squid Game
+- Queen Gambit
+- The Office
+- Succession
 - Modern Family
 - Veep
-- Spartacus
+- Ozark
 - Sacred Games
+- Better Call Saul
+- Cloud 9
 - Silicon Valley
-- Succession
+- Cobra Kai
 - Breaking Bad
 - The Good Doctor
-- Orange Is the New Black
+- Spartacus
+- Orange is the New Black
 - Luther
 - Narcos Mexico
 - Borgia
@@ -24,9 +32,24 @@ slug: "tv-series"
 - Metro Park
 - Made in Heaven
 - Master of None
+- Panchayat
 - Mirzapur
+- Peaky Blinders
+- Witcher
+- Last Dance
+- White Lotus
+- Norseman
+- Godless
+- Fresh Prince of Bel Air
+- Young Sheldon
+- Fargo
+- The Last Kingdom
+- Parks and Recreation
 - Schitt’s Creek
 - The Ranch
 - Hip-Hop Evolution
+- Lalbazar
+- Aarya
+- Queen of South
 - Vikings
 - Inside Bill’s Brain: Decoding Bill Gates
