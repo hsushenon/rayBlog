@@ -3,6 +3,7 @@ title: "Movies"
 slug: "movies"
 ---
 
+- Khosla Ka Ghosla
 - Dangal
 - Jumaji
 - Lunchbox
@@ -14,12 +15,14 @@ slug: "movies"
 - Election
 - Love + Sling
 - Parasite
+- Superbad
 - Haider
 - Alita: Battle Angel
 - The New King of Comedy
 - Spiderman into the Spiderverse
 - Newton
 - Fast and Furious 7
+- The Big Year
 - Bahubali 2
 - Madras cafe
 - Badlapur
@@ -38,7 +41,17 @@ slug: "movies"
 - Delhi Belly
 - Shoplifters
 - Ghosts of Girlfriends Past
-- Murder Mystery
+- Old Guard
+- News of the World
+- Blind Side
+- Terminator: Dark Fate 11/20 
+- Goodfellas 
+- Ronin 47
+- Raat Akeli Hai 
+- Ford vs Ferrari 
+- Wallstreet
+- 2 Guns 
+- 
 - Jungle Books
 - Bajirao Mastani
 - War Horse
