@@ -44,26 +44,31 @@ slug: "movies"
 - Old Guard
 - News of the World
 - Blind Side
-- Terminator: Dark Fate 11/20 
+- Terminator: Dark Fate 
 - Goodfellas 
 - Ronin 47
 - Raat Akeli Hai 
 - Ford vs Ferrari 
 - Wallstreet
 - 2 Guns 
-- 
 - Jungle Books
 - Bajirao Mastani
 - War Horse
 - Qarib Qarib Single Single
 - Barielly ki Barfi
 - No Country for Old Men
+- First Sunday 
+- Lootcase 
+- Murder mystery 
 - Badla
 - Sanju
 - MI 5
 - Sicario
 - Kedarnath
-- Stree 3/19
+- The Rewrite
+- Choked
+- Stree 
+- Angrezi Medium
 - My Wife is a Gangster 3
 - Election 2
 - More than Blue
@@ -74,6 +79,9 @@ slug: "movies"
 - Up In Air
 - Chaapak
 - Usual Suspect
+- Motichoor Chaknachoor 
+- Gifted 
+- Campaign 
 - Hercules 2014
 - Finding Fanny
 - Family
@@ -87,6 +95,8 @@ slug: "movies"
 - Kong Skull Island
 - Incredibles 2
 - Bad Neighbours
+- Bad Boys 
+- The Suicide Squad (2021)
 - November Man
 - Begin Again
 - 300 II
@@ -104,12 +114,14 @@ slug: "movies"
 - Chef
 - Dunkirk
 - Hindi Medium
+- Do Dooni Chaar
 - Love Actually
 - October
 - Kedarnath
 - The Negotiator
 - Money Monster
 - Moneyball
+- People Places Things 
 - Two Weeks Notice
 - Oye Lucky Lucky Oye
 - Irishman
@@ -130,6 +142,11 @@ slug: "movies"
 - Queen of Kwate
 - Angry Bird
 - Baby Driver
+- Army of Thieves
+- Blinded By The Light
+- The Intouchables 
+- Logan Lucky 
+- Detective Pikachu 
 - Get hard
 - Inferno
 - Mastermind
@@ -137,6 +154,12 @@ slug: "movies"
 - Deadpool 2
 - Pataakha
 - Photograph
+- Hitchki
+- Army of Dead
+- Enola Holmes
+- The Magic of Belle Isle 
+- The Do Over
+- Love Hard 
 - Walk of Shame
 - Anchorman 2
 - Funny People
@@ -144,6 +167,8 @@ slug: "movies"
 - Marrying to Mafia 2
 - Shooting Star
 - American Made
+- Ride Along  
+- Lion King (2019) 
 - Two States
 - Kill Me Three Times
 - Titli
@@ -153,11 +178,15 @@ slug: "movies"
 - She’s Funny That Way
 - The Night Before
 - The Meg
+- Instant Family
 - Love on Delivery
 - John Vick
 - Super 30
 - Package
+- The Other Guys
 - Always be My Maybe
 - The Mad Monk
 - 30 Minutes or Less
+- Hubie Halloween
 - Sky is Pink
+- Out of My League 
