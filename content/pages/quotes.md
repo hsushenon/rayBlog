@@ -3,7 +3,11 @@ title: "Quotes"
 slug: "quotes"
 ---
 
-"wabi-sabi" -Japanese concept
+"Everybody has a plan until they get punched in the mouth" -Mike Tyson
+
+"A friend is a gift you gift yourself" -Robert Louis Stevenson
+
+"Wabi-Sabi" -Japanese concept
 
 “Never memorize something that you can look up.” -Albert Einstein
 
