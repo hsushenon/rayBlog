@@ -2,6 +2,7 @@
 title: "Quotes"
 slug: "quotes"
 ---
+“We are what we repeatedly do. Excellence, then, is not an act but a habit” - Aristotle 
 
 "Everybody has a plan until they get punched in the mouth" -Mike Tyson
 
