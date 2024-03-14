@@ -8,18 +8,22 @@ slug: "movies"
 - Jumaji
 - Lunchbox
 - Piku
+- Avatar Way of Water
 - Avengers Civil War
 - Wolverine
 - Lock, Stock and Two Smoking Barrels
 - Reservoir Dogs
 - Election
+- Uncut Gem
 - Love + Sling
 - Parasite
 - Superbad
+- Top Gun Maverick
 - Haider
 - Alita: Battle Angel
 - The New King of Comedy
 - Spiderman into the Spiderverse
+- Coco 
 - Newton
 - Fast and Furious 7
 - The Big Year
@@ -30,6 +34,8 @@ slug: "movies"
 - English Vinglish
 - Dum Laga Ke Haisa
 - Big Sick
+- Knife Out 1
+- Death at a Funeral
 - Andadhun
 - Revenant
 - Eye in the Sky
@@ -41,6 +47,7 @@ slug: "movies"
 - Delhi Belly
 - Shoplifters
 - Ghosts of Girlfriends Past
+- Luca
 - Old Guard
 - News of the World
 - Blind Side
@@ -50,6 +57,7 @@ slug: "movies"
 - Raat Akeli Hai 
 - Ford vs Ferrari 
 - Wallstreet
+- Spiderman Across the Spider Verse
 - 2 Guns 
 - Jungle Books
 - Bajirao Mastani
@@ -94,6 +102,7 @@ slug: "movies"
 - Dil Dhadakne Do
 - Kong Skull Island
 - Incredibles 2
+- Gulabo Sitabo
 - Bad Neighbours
 - Bad Boys 
 - The Suicide Squad (2021)
@@ -103,6 +112,8 @@ slug: "movies"
 - Boothnath
 - Ankho dekhi
 - Spectre
+- Extraction 2
+- Extraction 1
 - Batman vs Superman
 - American Sniper
 - Neerja
@@ -136,6 +147,7 @@ slug: "movies"
 - Nice Guys
 - Heat
 - Badhai Ho
+- F9
 - 7:39
 - Humpty sharma ki dulhania
 - The Internship
@@ -145,17 +157,51 @@ slug: "movies"
 - Army of Thieves
 - Blinded By The Light
 - The Intouchables 
-- Logan Lucky 
+- Logan Lucky
+- Molly Game
+- Saivam
+- This is the end
+- Ted
+- Equalizer
+- John Vick
 - Detective Pikachu 
 - Get hard
 - Inferno
+- Time To Die
 - Mastermind
 - Angrezi mein kehte hai
+- Desperados
+- Don't look up
 - Deadpool 2
 - Pataakha
 - Photograph
 - Hitchki
 - Army of Dead
+- Glass Onion Knife Out
+- Caribbean Salazar
+- Pulp Fiction
+- Prey
+- Openhiemer
+- Pushpa
+- Vadh
+- Venom Carnage
+- Venom
+- The Meg
+- Zombieland
+- Zombieland Double Tap
+- Air
+- Ted 2
+- Guardian of Galaxy
+- Sonic
+- Sherdil
+- Killers
+- Marrying to Mafia 2
+- Saare Jahan see mehnga
+- 21, 22 Jump Street
+- American Made
+- Grown Up 1,2
+- Vacation Friend
+- Fukrey 3 
 - Enola Holmes
 - The Magic of Belle Isle 
 - The Do Over
@@ -172,7 +218,6 @@ slug: "movies"
 - Two States
 - Kill Me Three Times
 - Titli
-- The Other Guys
 - Pineapple Express
 - Big Libowski
 - She’s Funny That Way
@@ -180,13 +225,18 @@ slug: "movies"
 - The Meg
 - Instant Family
 - Love on Delivery
-- John Vick
+- Rango
 - Super 30
 - Package
 - The Other Guys
+- Me Time
+- Man from Toronto
+- Cop 2
 - Always be My Maybe
 - The Mad Monk
 - 30 Minutes or Less
 - Hubie Halloween
 - Sky is Pink
-- Out of My League 
+- Out of My League
+- Yahan Sabhi Gyani Hai
+- Fake Fiancé
