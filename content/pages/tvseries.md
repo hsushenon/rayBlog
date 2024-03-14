@@ -8,37 +8,51 @@ slug: "tv-series"
 - Sopranos
 - Narcos
 - Chernobyl
+- Succession
 - Squid Game
 - Queen Gambit
 - The Office
-- Succession
+- The Bear
+- Better Call Saul
+- Curb Your Enthusiasm
 - Modern Family
 - Veep
 - Ozark
 - Sacred Games
-- Better Call Saul
 - Cloud 9
 - Silicon Valley
-- Cobra Kai
 - Breaking Bad
+- Family Man
 - The Good Doctor
 - Spartacus
 - Orange is the New Black
 - Luther
 - Narcos Mexico
+- After Life
+- Panchayat
+- Only Murders in the Building
+- Sex Education
+- Yellowstone
+- Cobra Kai
 - Borgia
+- House of Dragons
+- Guns and Gulaabs
+- Metro Park
 - Marco Polo
 - StartUp
-- Metro Park
-- Made in Heaven
 - Master of None
-- Panchayat
 - Mirzapur
 - Peaky Blinders
+- Kim Convenience
+- IT Crowd
 - Witcher
 - Last Dance
 - White Lotus
+- Wecome to Sam dal ri
+- Made in Heaven
 - Norseman
+- Reacher
+- Peacemaker
 - Godless
 - Fresh Prince of Bel Air
 - Young Sheldon
@@ -46,10 +60,24 @@ slug: "tv-series"
 - The Last Kingdom
 - Parks and Recreation
 - Schitt’s Creek
+- Boston Legal
+- Community
+- Fresh out of Boat
+- One Piece
 - The Ranch
 - Hip-Hop Evolution
+- Nine 9
 - Lalbazar
+- Wednesday
+- Narco Saint
+- Atypical
 - Aarya
+- Money Heist
 - Queen of South
 - Vikings
+- Lucifer
+- Mobeen
+- Irma Vep
+- Crew
+- Man vs Bee
 - Inside Bill’s Brain: Decoding Bill Gates
