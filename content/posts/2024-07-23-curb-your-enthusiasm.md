@@ -1,0 +1,13 @@
+---
+title: "Curb Your Enthusiasm"
+slug: "Curb Your Enthusiasm"
+date: "2024-07-23"
+---
+
+This show comes from the same person who created Seinfeld, my all-time favorite.  Larry David is an absolute genius with comedy. I love the show, it is super funny, and each episode is unique and hilarious. I would say, unlike Seinfeld, this is a lot more crude, the humor is more raw, so if you are a sensitive person possibly you will not find this funny at all. Unlike Seinfeld, I would not recommend this show to everyone. Seinfeld had its moments, where people may not like some of the episodes or the jokes, but overall I thought they did it very well and intelligently so most people would enjoy it. This show goes all out trying all sorts of things without worry it could offend a section of society, they push a lot of boundaries with their comedy which in today’s world generally will not happen. I quite like that they made bold choices.
+
+I can see why it would not be for everyone. It is basically about a person who is just not a socially acceptable person, who does not have a filter, says and does all sorts of things without caring how others may feel. We all have weird thoughts but rarely act on them. The premise of the show is that if that person would not hold back, this creates a lot of funny moments.
+
+The show is so good that in my opinion Larry David like his character is a bit of a jerk in real life, I cannot believe he can create and act so well that character without actually being a lot like him, perhaps he does not blurt out all those things in real life but he definitely must have lots of same tendencies. Not saying he is a bad guy but he is definitely in a lot of cases can be said to be not a great guy either, if my thinking is right. He and others who know him have denied that is the case in many interviews.
+
+Of the comedy series I love, this probably is third after Seinfeld and Office. The thing that works well is that the ideas are new, they try new weird stuff each episode. It's obvious who worked on it has put a lot of thought into the new scenarios which would showcase the worst of Larry in unique ways. All the main cast are superb and do a great job. Even the many cameos are all super fun. A great show is one where you are reminded of it randomly from time to time, even when you have not seen it for some time. This happens to me once in a while. I would remember a particular episode and why it would be funny.
