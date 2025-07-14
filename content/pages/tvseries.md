@@ -5,6 +5,7 @@ slug: "tv-series"
 
 - Seinfeld
 - Game of Thrones
+- The Wire
 - Sopranos
 - Narcos
 - Chernobyl
@@ -15,6 +16,11 @@ slug: "tv-series"
 - The Bear
 - Better Call Saul
 - Curb Your Enthusiasm
+- My Mister
+- Reply 1988 
+- Last of Us
+- Shogun
+- Goblin 
 - Modern Family
 - Veep
 - Ozark
@@ -30,6 +36,7 @@ slug: "tv-series"
 - Narcos Mexico
 - After Life
 - Panchayat
+- Hotel Del Luna
 - Only Murders in the Building
 - Sex Education
 - Yellowstone
@@ -42,6 +49,7 @@ slug: "tv-series"
 - StartUp
 - Master of None
 - Mirzapur
+- Queen of Tears
 - Peaky Blinders
 - Kim Convenience
 - IT Crowd
@@ -61,9 +69,15 @@ slug: "tv-series"
 - Parks and Recreation
 - Schitt’s Creek
 - Boston Legal
+- Broadwalk Empire
+- Mr. Queen
+- Fight for my Way
 - Community
 - Fresh out of Boat
+- Dupiya
+- Tastefully Yours 
 - One Piece
+- The Gentlemen
 - The Ranch
 - Hip-Hop Evolution
 - Nine 9
@@ -73,10 +87,12 @@ slug: "tv-series"
 - Atypical
 - Aarya
 - Money Heist
+- Sound Of Your Heart
 - Queen of South
 - Vikings
 - Lucifer
 - Mobeen
+- 100 Days My Prince 
 - Irma Vep
 - Crew
 - Man vs Bee
