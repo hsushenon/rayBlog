@@ -17,8 +17,10 @@ slug: "tv-series"
 - Better Call Saul
 - Curb Your Enthusiasm
 - My Mister
-- Reply 1988 
+- Reply 1988
+- Panchayat 
 - Last of Us
+- Hospital Playlist
 - Shogun
 - Goblin 
 - Modern Family
@@ -40,6 +42,7 @@ slug: "tv-series"
 - Only Murders in the Building
 - Sex Education
 - Yellowstone
+- House of Dragons
 - Cobra Kai
 - Borgia
 - House of Dragons
@@ -72,10 +75,14 @@ slug: "tv-series"
 - Broadwalk Empire
 - Mr. Queen
 - Fight for my Way
+- Resident Playbook
 - Community
 - Fresh out of Boat
 - Dupiya
-- Tastefully Yours 
+- Tastefully Yours
+- Love Next Door
+- Waikiki
+- Waikiki 2 
 - One Piece
 - The Gentlemen
 - The Ranch
