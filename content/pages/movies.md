@@ -13,6 +13,7 @@ slug: "movies"
 - Wolverine
 - Lock, Stock and Two Smoking Barrels
 - Reservoir Dogs
+- Train to Busan
 - Election
 - Uncut Gem
 - Love + Sling
@@ -23,7 +24,9 @@ slug: "movies"
 - Alita: Battle Angel
 - The New King of Comedy
 - Spiderman into the Spiderverse
-- Coco 
+- Coco
+- Lapata Ladies
+- Kingdom of the Planet of the Apes
 - Newton
 - Fast and Furious 7
 - The Big Year
@@ -36,6 +39,9 @@ slug: "movies"
 - Big Sick
 - Knife Out 1
 - Death at a Funeral
+- Inside Out
+- MI Final Reckoning
+- Den of Thieves
 - Andadhun
 - Revenant
 - Eye in the Sky
@@ -48,6 +54,8 @@ slug: "movies"
 - Shoplifters
 - Ghosts of Girlfriends Past
 - Luca
+- Sicario
+- Twister 
 - Old Guard
 - News of the World
 - Blind Side
@@ -55,9 +63,11 @@ slug: "movies"
 - Goodfellas 
 - Ronin 47
 - Raat Akeli Hai 
-- Ford vs Ferrari 
+- Ford vs Ferrari
+- Bad Boys for Life 
 - Wallstreet
 - Spiderman Across the Spider Verse
+- Blackberry
 - 2 Guns 
 - Jungle Books
 - Bajirao Mastani
@@ -71,7 +81,6 @@ slug: "movies"
 - Badla
 - Sanju
 - MI 5
-- Sicario
 - Kedarnath
 - The Rewrite
 - Choked
@@ -102,6 +111,9 @@ slug: "movies"
 - Dil Dhadakne Do
 - Kong Skull Island
 - Incredibles 2
+- Ghostbuster Afterlife
+- Ricky Stanicky
+- Mario
 - Gulabo Sitabo
 - Bad Neighbours
 - Bad Boys 
